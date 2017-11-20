@@ -3,7 +3,7 @@ import Movies from '../ui/Movies'
 
 const AppHomePage = ({ history }) => (
   <div>
-    <Movies />
+    <Movies format="slider" />
   </div>
 )
 
